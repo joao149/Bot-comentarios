@@ -14,7 +14,7 @@ Loop 100
 
 Send, {Ctrl Down}w{Ctrl Up}
 Sleep, 360000
-Run, Chrome.exe *Link para a pagina ou video*
+Run, Chrome.exe https://instagram.com/stories/maniadasorte_/3050367818450311932?utm_source=ig_story_item_share&igshid=YmMyMTA2M2Y=
 Sleep, 5000
 Send {Click Left}
 Sleep 5000
